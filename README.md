@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate student and tech enthusiast curre
 
 ## 📫 Let's Connect:
 - 📧 Email: [mhuzaifa5188@gmail.com](mailto:YourEmail@example.com)  
-- 💼 LinkedIn: [https://www.linkedin.com/in/muhammad-khuzaifa](https://linkedin.com/in/YourProfile)  
+- 💼 LinkedIn: (https://www.linkedin.com/in/muhammad-khuzaifa)  
 - 🌐 Portfolio: [YourWebsite](https://yourportfolio.com)  
 
 ---
